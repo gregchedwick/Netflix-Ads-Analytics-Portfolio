@@ -1,5 +1,7 @@
 # Netflix Ads Analytics Portfolio Project
 
+![Top Titles for Ad Placement](Images/Top_Titles.png)  <!-- Add your screenshot here -->
+
 **End-to-End Analytics Engineering Project** simulating ad platform insights for Netflix's Ads Data Science & Engineering team.
 
 ## Business Objective
@@ -16,11 +18,13 @@ Build metrics, deep-dive analysis, and self-service tools to support decision-ma
 - **Python** (Pandas, Matplotlib, Seaborn) – ETL & Analysis
 - **Jupyter Notebooks** – Exploration
 - **Git + GitHub** – Version control
-- Ready for **Power BI** / Microsoft Fabric
+- **Power BI** / Microsoft Fabric
 
 ## Key Insights
-- High-duration Action, Fantasy, and Drama titles dominate ad potential
-- Recent high-viewership titles (e.g. Back in Action, Frankenstein) show strongest ad opportunity
+- Analyzed **32,000+ Netflix titles** (up to 2025) combined with **2025–2026 Top 500 global viewership data**
+- Created custom **Ad Opportunity Score** prioritizing actual hours viewed, duration, recency, and trending performance
+- **Top Titles**: KPop Demon Hunters (#1 with massive viewership), Back in Action, Frankenstein, etc.
+- **Top Genres**: War, Science Fiction, Romance, and Action-heavy content show strongest ad potential
 
 ## How to Run
 1. `git clone` this repo
