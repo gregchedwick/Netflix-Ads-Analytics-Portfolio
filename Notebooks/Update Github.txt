@@ -1,0 +1,13 @@
+git add .
+This stages (prepares) all the changes you've made in your project folder.
+The . means "everything in the current folder and subfolders" (new files, modified files, etc.).
+Think of it as: "Hey Git, take note of all my updates."
+
+git commit -m "Final: Complete Netflix Ads Analytics Portfolio - Updated scoring, exploded genres, visualizations, and README"
+This saves a permanent snapshot (version) of your project with a descriptive message.
+The -m flag lets you write the commit message directly.
+Good commit messages help you (and recruiters) understand what changed later.
+
+git push
+This uploads your latest commit to GitHub (your remote repository).
+After this, your project is live and up-to-date on the internet.
