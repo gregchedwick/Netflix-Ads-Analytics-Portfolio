@@ -14,6 +14,9 @@ Build metrics, deep-dive analysis, and self-service tools to support decision-ma
 - Generated insights on best content for ad placement
 - Prepared data for interactive Power BI dashboards
 
+## Data Sources
+See [data_download.md](data_download.md) for download links and setup instructions.
+
 ## Tech Stack
 - **Python** (Pandas, Matplotlib, Seaborn) – ETL & Analysis
 - **Jupyter Notebooks** – Exploration
