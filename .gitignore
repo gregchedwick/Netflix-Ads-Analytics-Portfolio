@@ -24,6 +24,3 @@ Thumbs.db
 
 # Logs
 *.log
-
-# Reports (optional - you can commit small PDFs later)
-reports/*.pbix
