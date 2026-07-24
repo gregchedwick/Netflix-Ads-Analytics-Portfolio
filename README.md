@@ -2,7 +2,7 @@
 
 ![Top Titles for Ad Placement](Images/Top_Titles.png) 
 ![Top Genres for Ad Placement](Images/Top_Genres.png)
-![Ad Opportunity Score Dashboard](Images/Ad_Opportunity_Score_Dashboard.png)
+![Ad Opportunity Score Dashboard](Images/Netflix Ads Analytics.png)
 
 **End-to-End Analytics Engineering Project** simulating ad platform insights for Netflix's Ads Data Science & Engineering team.
 
