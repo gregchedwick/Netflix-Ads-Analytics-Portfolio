@@ -10,10 +10,8 @@
 ![Top Genres for Ad Placement](Images/Top_Genres.png)
 
 
-**End-to-End Analytics Engineering Project** simulating ad platform insights for Netflix's Ads Data Science & Engineering team.
-
 ## Business Objective
-Build metrics, deep-dive analysis, and self-service tools to support decision-making in Netflix's ad-supported tier (0-1 space).
+**End-to-End Analytics Engineering Project** simulating ad platform insights for Netflix's Ads Data Science & Engineering team. Build metrics, deep-dive analysis, and self-service tools to support decision-making in Netflix's ad-supported tier (0-1 space).
 
 ## What I Built
 - Ingested and cleaned large Netflix content + 2025-2026 viewership datasets
