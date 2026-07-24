@@ -1,6 +1,8 @@
 # Netflix Ads Analytics Portfolio Project
 
-![Top Titles for Ad Placement](Images/Top_Titles.png)  <!-- Add your screenshot here -->
+![Top Titles for Ad Placement](Images/Top_Titles.png) 
+![Top Genres for Ad Placement](Images/Top_Genres.png)
+![Ad Opportunity Score Dashboard](Images/Ad_Opportunity_Score_Dashboard.png)
 
 **End-to-End Analytics Engineering Project** simulating ad platform insights for Netflix's Ads Data Science & Engineering team.
 
@@ -22,6 +24,13 @@ See [data_download.md](data_download.md) for download links and setup instructio
 - **Jupyter Notebooks** – Exploration
 - **Git + GitHub** – Version control
 - **Power BI** / Microsoft Fabric
+
+## Ad Opportunity Score Logic
+Rank  Component             Relative Weight     Business Rationale
+1     Total Hours Viewed    ~70–80%             Strongest predictor of ad inventory value
+2     Weeks in Top 10       ~10–15%             Measures sustained cultural relevance
+3     Vote Average          ~5–8%               Higher-rated titles hold attention longer
+4     Release Year          ~2–5%               Newer content attracts more viewers
 
 ## Key Insights
 - Analyzed **32,000+ Netflix titles** (up to 2025) combined with **2025–2026 Top 500 global viewership data**
