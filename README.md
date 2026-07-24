@@ -2,7 +2,7 @@
 
 ![Top Titles for Ad Placement](Images/Top_Titles.png) 
 ![Top Genres for Ad Placement](Images/Top_Genres.png)
-![Ad Opportunity Score Dashboard](Images/Netflix_Ads_Analytics.png)
+![Ad Opportunity Score Dashboard](Images/Ad_Opportunity_ Score_Dashboard.png)
 
 **End-to-End Analytics Engineering Project** simulating ad platform insights for Netflix's Ads Data Science & Engineering team.
 
@@ -15,6 +15,10 @@ Build metrics, deep-dive analysis, and self-service tools to support decision-ma
 - Merged metadata with real top-viewed titles
 - Generated insights on best content for ad placement
 - Prepared data for interactive Power BI dashboards
+
+## Power BI Dashboard
+Interactive Power BI report available in the `Reports` folder:
+- **File:** [Reports/Netflix Ads Analytics.pbix](Reports/Netflix%20Ads%20Analytics.pbix)
 
 ## Data Sources
 See [data_download.md](data_download.md) for download links and setup instructions.
