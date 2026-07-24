@@ -18,7 +18,7 @@ Build metrics, deep-dive analysis, and self-service tools to support decision-ma
 
 ## Power BI Dashboard
 Interactive Power BI report available in the `Reports` folder:
-- **File:** [Reports/Netflix Ads Analytics.pbix](Reports/Netflix%20Ads%20Analytics.pbix)
+- **File:** [Reports/Netflix_Ads_Analytics.pbix](Reports/Netflix_Ads_Analytics.pbix)
 
 ## Data Sources
 See [data_download.md](data_download.md) for download links and setup instructions.
