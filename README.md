@@ -35,10 +35,10 @@ See [data_download.md](data_download.md) for download links and setup instructio
 
 ## Ad Opportunity Score Logic
 Rank  Component             Relative Weight     Business Rationale
-1     Total Hours Viewed    ~70%–80%             Strongest predictor of ad inventory value
-2     Weeks in Top 10       ~10%–15%             Measures sustained cultural relevance
-3     Vote Average          ~5%–8%               Higher-rated titles hold attention longer
-4     Release Year          ~2%–5%               Newer content attracts more viewers
+1     Total Hours Viewed    ~70%–80%            Strongest predictor of ad inventory value
+2     Weeks in Top 10       ~10%–15%            Measures sustained cultural relevance
+3     Vote Average          ~5%–8%              Higher-rated titles hold attention longer
+4     Release Year          ~2%–5%              Newer content attracts more viewers
 
 ## Key Insights
 - Analyzed **32,000+ Netflix titles** (up to 2025) combined with **2025–2026 Top 500 global viewership data**
